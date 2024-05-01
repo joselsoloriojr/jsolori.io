@@ -1,0 +1,4 @@
+.button {
+  @apply border-2 border-space-blue text-space-blue px-4 py-2 rounded-lg text-sm
+  hover:bg-space-blue hover:text-space-white transition-colors duration-300;
+}

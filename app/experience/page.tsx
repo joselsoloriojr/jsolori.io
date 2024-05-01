@@ -11,7 +11,7 @@ const Experience = () => (
           <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">March 2023 - Present</time>
           <h3 className="text-lg font-semibold text-white">Senior Tools & Automation Engineer</h3>
           <h4 className="text-space-light-blue">Light & Wonder</h4>
-          <ul className="list-inside list-disc text-base font-normal text-gray-500 dark:text-gray-400">
+          <ul className="list-disc pl-4 text-base font-normal text-gray-500 dark:text-gray-400">
             <li>Lead the development of a new suite of tools and automation scripts to streamline the development process</li>
             <li>Collaborate with cross-functional teams to identify opportunities for process improvement</li>
             <li>Implement best practices for code quality, testing, and deployment</li>
@@ -22,7 +22,7 @@ const Experience = () => (
           <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">March 2022</time>
           <h3 className="text-lg font-semibold text-white">Tools & Automation Engineer</h3>
           <h4 className="text-space-light-blue">Light & Wonder</h4>
-          <ul className="list-inside list-disc text-base font-normal text-gray-500 dark:text-gray-400">
+          <ul className="list-disc pl-4 text-base font-normal text-gray-500 dark:text-gray-400">
             <li>Lead the development of a new suite of tools and automation scripts to streamline the development process</li>
             <li>Collaborate with cross-functional teams to identify opportunities for process improvement</li>
             <li>Implement best practices for code quality, testing, and deployment</li>
@@ -33,7 +33,7 @@ const Experience = () => (
           <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">April 2022</time>
           <h3 className="text-lg font-semibold text-white">Associate SQA Engineer</h3>
           <h4 className="text-space-light-blue">Light & Wonder</h4>
-          <ul className="list-inside list-disc text-base font-normal text-gray-500 dark:text-gray-400">
+          <ul className="list-disc pl-4 text-base font-normal text-gray-500 dark:text-gray-400">
             <li>Lead the development of a new suite of tools and automation scripts to streamline the development process</li>
             <li>Collaborate with cross-functional teams to identify opportunities for process improvement</li>
             <li>Implement best practices for code quality, testing, and deployment</li>

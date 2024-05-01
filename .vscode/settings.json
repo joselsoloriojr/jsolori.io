@@ -4,5 +4,10 @@
     "jsolorio",
     "Solorio",
     "tailwindcss"
-  ]
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
 }

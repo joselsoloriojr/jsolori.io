@@ -1,10 +1,10 @@
 import Link from "next/link"
 
 import Button from "@/components/Button"
-import Container from "@/components/Container"
+import PageContainer from "@/components/PageContainer"
 
 const About = () => (
-  <Container className="flex min-h-screen animate-fadeIn-1s flex-col space-y-4">
+  <PageContainer>
     <h2>About Me</h2>
     <p>
       As a Full Stack Software Engineer with over 4 years of experience, I&apos;ve had the opportunity to work on a variety of web development projects, honing my skills in both front-end and back-end technologies.
@@ -21,7 +21,7 @@ const About = () => (
     <Link href="/experience" className="animate-pulse">
       <Button>Go to my experience</Button>
     </Link>
-  </Container>
+  </PageContainer>
 )
 
 export default About

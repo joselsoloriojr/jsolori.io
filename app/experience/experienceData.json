@@ -1,0 +1,58 @@
+[
+  {
+    "timePeriod": "January 2023 - Present",
+    "jobTitle": "Senior Tools & Automation Engineer",
+    "companyName": "Light & Wonder",
+    "responsibilities": [
+      "Lead group of 4 engineers in design and creation of a new internal project monitoring web app used by over 300 users, and 1500+ project, across multiple game design studios.",
+      "Designed and implemented FastAPI routes to access third-party REST APIs and internal SQL and MongoDB databases.",
+      "Introduced GSA Central Database Interface standard to provide real-time updates from testing labs, enabling immediate notification of product approvals to stakeholders."
+    ],
+    "technologiesUsed": [
+      "Python",
+      "JavaScript",
+      "React",
+      "MongoDB",
+      "Next.js",
+      "FastAPI",
+      "Bootstrap",
+      "Sass",
+      "Kafka"
+    ]
+  },
+  {
+    "timePeriod": "January 2022 - December 2022",
+    "jobTitle": "Tools & Automation Engineer",
+    "companyName": "Light & Wonder",
+    "responsibilities": [
+      "Introduced containerization to web applications and services, reducing downtimes to minutes instead of days and increasing reliability.",
+      "Refactored the internal Selenium wrapper and improved data replication scripts, increasing execution speed by 10 times and reducing replication time from hours to minutes introducing parallelization.",
+      "Created custom WSL distribution for Windows to facilitate development for users, reducing the time to set up a development environment from hours to minutes."
+    ],
+    "technologiesUsed": [
+      "Python",
+      "Docker",
+      "Jenkins",
+      "Selenium",
+      "Bash",
+      "Flask",
+      "Windows Subsystem for Linux (WSL)"
+    ]
+  },
+  {
+    "timePeriod": "January 2020 - December 2021",
+    "jobTitle": "Associate SQA Engineer",
+    "companyName": "Scientific Games",
+    "responsibilities": [
+      "Created tools and scripts by my own initiative to facilitate the manual testing and generation of regulatory documentation.",
+      "Tested Unity games written in C# and kept a 100% regulatory approval rate."
+    ],
+    "technologiesUsed": [
+      "Python",
+      "Perforce",
+      "Jira",
+      "Confluence",
+      "C#"
+    ]
+  }
+]

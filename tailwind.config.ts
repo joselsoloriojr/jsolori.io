@@ -22,10 +22,10 @@ const config: Config = {
       },
       colors: {
         "space-blue": "#0070f3",
-        "space-gray": "#333",
         "space-light-blue": "#3291FF",
-        "space-light-gray": "#888",
         "space-white": "#F5F5F5",
+        "space-light-gray": "#888",
+        "space-gray": "#333",
         "space-black": "#000",
         "space-green": "#00FF00"
       },

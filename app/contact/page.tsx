@@ -1,7 +1,7 @@
 import Card from "@/components/Card"
 import PageContainer from "@/components/PageContainer"
 
-import contactInfo from "./contactInfo"
+import contactInfo from "./contactInfo.json"
 
 const Contact = () => (
   <PageContainer>
@@ -13,11 +13,7 @@ const Contact = () => (
             <tr key={index}>
               <td className="text-space-blue">{info.label}</td>
               <td>
-                {info.isLink ? (
-                  <a href={info.link}>{info.linkText}</a>
-                ) : (
-                  info.value
-                )}
+                {info.isLink ? <a href={info.link}>{info.value}</a> : info.value}
               </td>
             </tr>
           ))}

@@ -21,12 +21,13 @@ const config: Config = {
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
       colors: {
-        "space-blue": "var(--space-blue)",
-        "space-gray": "var(--space-gray)",
-        "space-light-blue": "var(--space-light-blue)",
-        "space-light-gray": "var(--space-light-gray)",
-        "space-white": "var(--space-white)",
-        "space-black": "var(--space-black)",
+        "space-blue": "#0070f3",
+        "space-gray": "#333",
+        "space-light-blue": "#3291FF",
+        "space-light-gray": "#888",
+        "space-white": "#F5F5F5",
+        "space-black": "#000",
+        "space-green": "#00FF00"
       },
       fontFamily: {
         rem: "var(--font-rem)",

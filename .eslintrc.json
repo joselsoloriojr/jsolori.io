@@ -9,15 +9,6 @@
     "plugin:import/typescript"
   ],
   "rules": {
-    "semi": [
-      "warn",
-      "never"
-    ],
-    "tailwindcss/classnames-order": "warn",
-    "tailwindcss/no-custom-classname": "warn",
-    "tailwindcss/no-contradicting-classname": "error",
-    "react/prop-types": "off",
-    "react/react-in-jsx-scope": "off",
     "import/order": [
       "error",
       {
@@ -35,7 +26,17 @@
           "caseInsensitive": true
         }
       }
-    ]
+    ],
+    "semi": [
+      "warn",
+      "never"
+    ],
+    "tailwindcss/classnames-order": "warn",
+    "tailwindcss/no-custom-classname": "warn",
+    "tailwindcss/no-contradicting-classname": "error",
+    "react/prop-types": "off",
+    "react/react-in-jsx-scope": "off",
+    "no-unused-vars": "warn"
   },
   "plugins": [
     "react",
